@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 10%;
+}
+
+.hello {
+  color: white;
+  font-family: Fira Code, Andale Mono, monospace;
+}
+
+.arthur {
+  color: white;
+  font-family: Fira Code, Andale Mono, monospace;
+  font-size: 50px;
+}
+
+.job {
+  color: rgb(197, 197, 197);
+  font-family: Fira Code, Andale Mono, monospace;
+}
+
+.link{
+  margin-top: 20px;
+}
+
+.links {
+  color: rgb(255, 255, 255);
+  font-family: Fira Code, Andale Mono, monospace;
+  text-decoration: underline;
+  font-size: 22px;
+}
