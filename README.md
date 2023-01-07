@@ -14,13 +14,6 @@ To run this project, you will need to have the following software installed on y
 
 - A modern web browser (such as Google Chrome or Mozilla Firefox)
 
-### Installation
-
-1. Clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/[username]/hub.git
-
 ## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - The markup language used to structure the content of the website
